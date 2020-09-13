@@ -1,0 +1,37 @@
+html,body {
+  background: url(https://image.freepik.com/free-vector/perspective-view-laptop_56126-13.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+ }
+ h1{
+ 	font-size: 3rem;
+ 	color: #e2dbdb;
+ }
+ .btn {
+ 	font-weight: 700;
+ 	border-radius: 300px;
+ 	text-transform: uppercase;
+ }
+ .btn-primary {
+ 	background-color: #F05F44;
+ 	border-color: #F0F544;
+ }
+ .btn-primary:hover{
+ 	background-color: #ee4b08;
+ 	color: #ee4b08;
+ }
+ .btn-xl{
+ 	text-transform: uppercase;
+ 	padding: 1rem 2 rem;
+ }
+ hr {
+ 	border-color: #F05F44;
+ 	border-width: 3px;
+ 	max-width: 65px;
+ }
+ .buffer {
+ 	height: 5rem;
+ }
